@@ -1,0 +1,1 @@
+How do you open a README.md file?
